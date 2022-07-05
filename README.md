@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forsping
-- 👀 I’m interested in Anime
-- 🌱 I’m currently learning C、PHYTHON、OPENCV3
+- 👀 I’m interested in Anime&Rock N Roll
+- 🌱 I’m currently learning C、C++、java、PHYTHON、OPENCV3
 - 📫 My e-mail is 3210803032@stmail.ujs.edu.cn.
 
 <!---
