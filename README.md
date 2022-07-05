@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @forsping
-- 👀 I’m interested in Anime(JOJO……)
+- 👀 I’m interested in Anime
 - 🌱 I’m currently learning C、PHYTHON、OPENCV3
 - 📫 My e-mail is 3210803032@stmail.ujs.edu.cn.
 
