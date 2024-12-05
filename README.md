@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @forsping
-- 👀 I’m interested in Anime&Rock N Roll
-- 🌱 I’m currently learning C、C++、java、PHYTHON、OPENCV3
-- 📫 My e-mail is 3210803032@stmail.ujs.edu.cn.
+- 🌱 I’m a C/C++, Python, Java developer
+- 📫 My e-mail is sncapwed@163.com.
 
 <!---
 forsping/forsping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
